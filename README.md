@@ -1,4 +1,4 @@
-#How to use docker-compose to set up a Flask web server and a Redis cache to count page hits
+# How to use docker-compose to set up a Flask web server and a Redis cache to count page hits
 
 Compose is a tool for defining and running multi-container Docker applications. 
 With Compose, you use a YAML file to configure your application’s services. 
